@@ -25,6 +25,13 @@
   padding-left: 10px;
   width: 1300px;
 }
+#logo2 {
+  background-image: url(img/logo\ sushi.png);
+  width: 80px;
+  height: 40px;
+  text-indent: -1000px;
+  overflow: hidden;
+}
 .logo {
   width: 150px;
   height: 100px;
